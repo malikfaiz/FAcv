@@ -1,0 +1,54 @@
+body {
+  background: linear-gradient(#c9c6c6, #701a2e);
+}
+img {
+  border-radius: 90%;
+  image-resolution: 35000;
+}
+#T {
+  border: 2px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+#h2 {
+  color: steelblue;
+}
+#H {
+  border-style: none;
+  border-top: dotted steelblue;
+  height: 2px;
+  width: 80px;
+}
+#L {
+  border-style: none;
+  border-top: dotted steelblue;
+  height: 2px;
+  width: 80px;
+}
+#O {
+  list-style-type: none;
+}
+.steelblue {
+  color: steelblue;
+}
+#U {
+  list-style-type: none;
+}
+/* index complete */
+#B {
+  border-top: dotted steelblue;
+}
+.F {
+  color: steelblue;
+}
+.steelblue {
+  color: steelblue;
+}
+.D {
+  border-style: none;
+  border-top: dotted steelblue;
+  height: 2px;
+  width: 80px;
+}
